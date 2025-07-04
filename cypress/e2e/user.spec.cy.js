@@ -12,7 +12,7 @@ const dashboardPage = new DashboardPage()
 const menuPage = new MenuPage()
 const myInfoPage = new MyInfoPage()
 
-describe('Orange HRM - User Tests', () => {
+describe('Orange HRM - User Update Tests', () => {
 
   it("User Info Update - Success", () => {
     loginPage.accessLoginPage()
